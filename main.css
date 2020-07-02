@@ -15,3 +15,12 @@ body.signin-body{
     -webkit-box-shadow: 2px 2px 5px/*blur*/ rgba(0,0,0,0.8);
     -moz-box-shadow: 2px 2px 5px/*blur*/ rgba(0,0,0,0.8);
 }
+
+.signin-card-block{
+    margin: auto;
+}
+
+.signin-img{
+    padding: 0 2rem 2rem; /*rem, r-root font size, here it means 2x larger than root font size*/
+    display: block; /*to stack on elements below it*/
+}
