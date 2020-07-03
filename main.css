@@ -23,6 +23,8 @@ body.signin-body{
 .signin-img{
     padding: 0 2rem 2rem; /*rem, r-root font size, here it means 2x larger than root font size*/
     display: block; /*to stack on elements below it*/
+    margin: auto;
+    width: 80%;
 }
 
 .signin-btn{
